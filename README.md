@@ -21,13 +21,13 @@ Make sure you have Node.js and npm installed on your system. You can download th
 
 1. **Clone the repository:**
    ```bash
-  ### `git clone https://github.com/your-username/ToDoList.git`
+   git clone https://github.com/your-username/ToDoList.git`
    cd ToDoList
+   npm install
+   npm start
 
 
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
